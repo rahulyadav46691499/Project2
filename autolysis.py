@@ -5,7 +5,7 @@ dependencies = [
    "httpx",
    "chardet",
    "numpy",
-    "sys"
+   "sys"
 ]
 
 
