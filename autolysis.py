@@ -1,11 +1,10 @@
-dependencies = [
-   "seaborn",
-   "pandas",
-   "matplotlib",
-   "httpx",
-   "chardet",
-   "numpy",
-]
+import os
+import sys
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import httpx
+import chardet
 
 
 # Constants
